@@ -31,7 +31,11 @@ def quickSort(arr, low, high):
         quickSort(arr, pi + 1, high)
 
 
-arr = [10, 8, 3, 9, 4, 5, 7]
+arr = []
+for x in range (1000):
+    tala = random.randint(0, 100)
+    arr.append(tala)
+    
 n = len(arr)
 quickSort(arr,0,n-1)
 
