@@ -61,6 +61,6 @@ https://www.youtube.com/watch?v=VXxNG9OFV6I
 # Niðurstaða  
 **Niðurstöður á keyrslutíma milli forrita eru alls ekki nákvæmar þar sem VSCode þarf að compile-a kóðann fyrir hverja keyrslu. Mér finnst líka mjög skrýtið að það taki styttri tíma að leysa 1000 staka lista vs 100 staka lista**  
 **Niðurstöðurnar í Python voru fyrirsjáanlegri. Forritið er hundraðasta úr sekúndu fljótara að leysa úr 100 staka lista vs 1000 staka lista.**  
-**Þegar keyrslutíminn í Mac vs Windos er borinn saman sést að Python er nánast hundraðasta úr sekúndu fljótara að keyra í öllum tilfellum og nánast heilli sekúndu fljótara í Mac vélinni.**
+**Þegar keyrslutíminn í Mac vs Windos er borinn saman sést að í Mac vélinni er Python nánast hundraðasta úr sekúndu fljótara að keyra í öllum tilfellum og C++ nánast heilli sekúndu fljótara.**
 
 
