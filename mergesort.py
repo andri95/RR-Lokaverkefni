@@ -36,18 +36,13 @@ def mergeSort(arr):
 
 
 
-def printList(arr):
-    for i in range(len(arr)):
-        print(arr[i], end=" ")
-    print()
+arr = []
+for x in range (1000):
+    tala = random.randint(0, 100)
+    arr.append(tala)
+    
 
-arr = [12, 11, 13, 5, 6, 7]
-print("Given array is", end="\n")
-printList(arr)
 mergeSort(arr)
 
 print (time.clock() - start_time, "seconds")
-
-
-print("Sorted array is: ", end="\n")
-printList(arr)
+print(arr)
