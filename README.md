@@ -17,6 +17,54 @@ intel Core i5 6600K 4.4GHz
 ### Editorar  
 **Python skrárnar verða keyrðar í PyCharm og C skrárnar í VisualStudioCode.**  
 
-### Video þar sem farið er yfir keyrslu forrita
+### Video þar sem farið er yfir keyrslu forrita  
+**QuickSort**  
+https://youtu.be/D0aCHpHUKeM  
+**MergeSort**  
+https://www.youtube.com/watch?v=VXxNG9OFV6I  
 
-# Niðurstöður
+# Niðurstöður  
+## MAC  
+### QuickSort
+**Python**  
+100 stök:  
+1000 stök:  
+**C++**  
+100 stök:  
+1000 stök:  
+**C#**  
+100 stök:  
+1000 stök:  
+### MergeSort  
+**Python**  
+100 stök:  
+1000 stök:  
+**C++**  
+100 stök:  
+1000 stök:  
+**C#**  
+100 stök:  
+1000 stök:  
+
+## Windows  
+### QuickSort
+**Python**  
+100 stök:  
+1000 stök:  
+**C++**  
+100 stök:  
+1000 stök:  
+**C#**  
+100 stök:  
+1000 stök:  
+### MergeSort  
+**Python**  
+100 stök:  
+1000 stök:  
+**C++**  
+100 stök:  
+1000 stök:  
+**C#**  
+100 stök:  
+1000 stök:  
+
