@@ -27,36 +27,40 @@ https://www.youtube.com/watch?v=VXxNG9OFV6I
 ## MAC  
 ### QuickSort
 **Python**  
-100 stök:  0.000638 sekúndur  
-1000 stök:  0.00688 sekúndur  
+100 stök meðaltal: 0.000638 sekúndur  
+1000 stök meðaltal:  0.00688 sekúndur  
 **C++**  
-100 stök:  0.411 sekúndur  
-1000 stök:  0.402 sekúndur  
+100 stök meðaltal:  0.411 sekúndur  
+1000 stök meðaltal:  0.402 sekúndur  
 
 ### MergeSort  
 **Python**  
-100 stök:  0.000791 sekúndur  
-1000 stök:  0.0073259 sekúndur  
+100 stök meðaltal:  0.000791 sekúndur  
+1000 stök meðaltal:  0.0073259 sekúndur  
 **C++**  
-100 stök:  0.42 sekúndur  
-1000 stök:  0.423 sekúndur  
+100 stök meðaltal:  0.42 sekúndur  
+1000 stök meðaltal:  0.423 sekúndur  
 
 ## Windows  
 ### QuickSort
 **Python**  
-100 stök:  0.0015199 sekúndur  
-1000 stök:  0.02043789 sekúndur  
+100 stök meðaltal:  0.0015199 sekúndur  
+1000 stök meðaltal:  0.02043789 sekúndur  
 **C++**  
-100 stök:  
-1000 stök:  
+100 stök meðaltal:  1.401 sekúndur  
+1000 stök meðaltal:  1.176 sekúndur  
  
 ### MergeSort  
 **Python**  
-100 stök:  
-1000 stök:  
+100 stök meðaltal:  0.002125 sekúndur
+1000 stök meðaltal:  0.0261508 sekúndur  
 **C++**  
-100 stök:  
-1000 stök:  
+100 stök meðaltal:  1.234 sekúndur  
+1000 stök meðaltal:  1.178 sekúndur  
 
-# Niðurstaða
+# Niðurstaða  
+**Niðurstöður á keyrslutíma milli forrita eru alls ekki nákvæmar þar sem VSCode þarf að compile-a kóðann fyrir hverja keyrslu. Mér finnst líka mjög skrýtið að það taki styttri tíma að leysa 1000 staka lista vs 100 staka lista**  
+**Niðurstöðurnar í Python voru fyrirsjáanlegri. Forritið er hundraðasta úr sekúndu fljótara að leysa úr 100 staka lista vs 1000 staka lista.**  
+**Þegar keyrslutíminn í Mac vs Windos er borinn saman sést að Python er nánast hundraðasta úr sekúndu fljótara að keyra í öllum tilfellum og nánast heilli sekúndu fljótara í Mac vélinni.**
+
 
