@@ -1,8 +1,8 @@
 # Reiknirit Lokaverkefni - Andri Fannar
 ## Uppsetning verkefnis
-**Í þessu verkefni ætla ég að bera saman tvö leitaralgrím í þremur forritunarmálum (Python, C++ og C#) í tveimur tegundum stýrikerfa (Windows og Mac)**  
+**Í þessu verkefni ætla ég að bera saman tvö leitaralgrím í tveimur forritunarmálum (Python og C++) í tveimur tegundum stýrikerfa (Windows og Mac) og þar af leiðandi á tveimur mismunandi vélum**  
 **Með verkefninu fylgja keyrsluskrárnar og hér fyrir neðan verður linkur með útskýringum fyrir hvert algrím**  
-Það má strax gera ráð fyrir því að algrímin séu fljótvirkari í C málunum heldur en í Python þar sem þau eru low-level (keyra nær vélbúnaðinum).  
+Það má strax gera ráð fyrir því að algrímin séu fljótvirkari í C++ heldur en í Python þar sem C++ er low-level (keyrir nær vélbúnaðinum).  
 Ekki ætti að muna miklu milli stýrikerfa, en þó er vélbúnaðurinn ekki sá sami í vélunum.  
 ### Algrímin sem verða prófuð:  
 **Quick-Sort**   
@@ -27,24 +27,19 @@ https://www.youtube.com/watch?v=VXxNG9OFV6I
 ## MAC  
 ### QuickSort
 **Python**  
-100 stök:  
-1000 stök:  
+100 stök:  0.000638 sekúndur  
+1000 stök:  0.00688 sekúndur  
 **C++**  
-100 stök:  
-1000 stök:  
-**C#**  
-100 stök:  
-1000 stök:  
+100 stök:  0.411 sekúndur  
+1000 stök:  0.402 sekúndur  
+
 ### MergeSort  
 **Python**  
-100 stök:  
-1000 stök:  
+100 stök:  0.000791 sekúndur
+1000 stök:  0.0073259 sekúndur  
 **C++**  
-100 stök:  
-1000 stök:  
-**C#**  
-100 stök:  
-1000 stök:  
+100 stök:  0.42 sekúndur  
+1000 stök:  0.423 sekúndur  
 
 ## Windows  
 ### QuickSort
@@ -54,9 +49,7 @@ https://www.youtube.com/watch?v=VXxNG9OFV6I
 **C++**  
 100 stök:  
 1000 stök:  
-**C#**  
-100 stök:  
-1000 stök:  
+ 
 ### MergeSort  
 **Python**  
 100 stök:  
@@ -64,7 +57,6 @@ https://www.youtube.com/watch?v=VXxNG9OFV6I
 **C++**  
 100 stök:  
 1000 stök:  
-**C#**  
-100 stök:  
-1000 stök:  
+
+# Niðurstaða
 
