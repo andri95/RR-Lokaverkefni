@@ -31,7 +31,7 @@ def quickSort(arr, low, high):
         quickSort(arr, pi + 1, high)
 
 
-arr = [10, 7, 8, 9, 1, 5, 11, 4, 15, 2]
+arr = [10, 8, 3, 9, 4, 5, 7]
 n = len(arr)
 quickSort(arr,0,n-1)
 
