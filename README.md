@@ -15,7 +15,7 @@ intel Core i7 2.7GHz
 intel Core i5 6600K 4.4GHz
 16GB ddr4 2133MHz  
 ### Editorar  
-**Python skrárnar verða keyrðar í PyCharm og C skrárnar í VisualStudioCode.**  
+**Python skrárnar verða keyrðar í PyCharm og C++ skrárnar í VisualStudioCode.**  
 
 ### Video þar sem farið er yfir keyrslu forrita  
 **QuickSort**  
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=VXxNG9OFV6I
 
 ### MergeSort  
 **Python**  
-100 stök:  0.000791 sekúndur
+100 stök:  0.000791 sekúndur  
 1000 stök:  0.0073259 sekúndur  
 **C++**  
 100 stök:  0.42 sekúndur  
@@ -44,8 +44,8 @@ https://www.youtube.com/watch?v=VXxNG9OFV6I
 ## Windows  
 ### QuickSort
 **Python**  
-100 stök:  
-1000 stök:  
+100 stök:  0.0015199 sekúndur  
+1000 stök:  0.02043789 sekúndur  
 **C++**  
 100 stök:  
 1000 stök:  
